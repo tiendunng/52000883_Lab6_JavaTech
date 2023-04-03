@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean id="client" class="com.java.EmailClient"/>-->
+<!--    <bean id="product1" class="com.java.Product" scope="singleton">-->
+<!--        <property name="id" value="1"></property>-->
+<!--        <property name="name" value="Iphone14XS"></property>-->
+<!--        <property name="color" value="pink"></property>-->
+<!--        <property name="price" value="1"></property>-->
+<!--    </bean>-->
+<!--    <bean id="product2" class="com.java.Product" scope="singleton">-->
+<!--        <property name="id" value="2"></property>-->
+<!--        <property name="name" value="Iphone17XS"></property>-->
+<!--        <property name="color" value="black"></property>-->
+<!--        <property name="price" value="200"></property>-->
+<!--    </bean>-->
+<!--    <bean id="product3" class="com.java.Product" scope="prototype">-->
+<!--        <property name="id" value="3"></property>-->
+<!--        <property name="name" value="6"></property>-->
+<!--        <property name="color" value="black"></property>-->
+<!--        <property name="price" value="2000"></property>-->
+<!--    </bean>-->
+</beans>
